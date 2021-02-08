@@ -2,7 +2,7 @@
 iVABS Introduction
 ==================
 
-**iVABS** (integrated VABS) package bundles  **PreVABS + VABS + gmsh + msgpi + GEBT 
+**iVABS**, standing for integrated VABS, is a VABS-based composite beam design framework. It contains PreVABS, VABS, gmsh,  msgpi + GEBT 
 + Dakota(optional)** . **PreVABS** is a parametrized composite design tool. 
 **VABS** is a commercial code for cross-sectional property analysis. **msgpi**
 is a Python interface for **VABS**. **GEBT** is a beam structural analysis tool.
